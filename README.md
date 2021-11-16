@@ -1,3 +1,4 @@
-# Platform Events Demo
+# Permission Sets
 
-Quick 2-3 minute demo, showcasing how platform events can operate
+Quick demo, showcasing how Permission Sets work
+
