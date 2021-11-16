@@ -1,4 +1,4 @@
-# Restriction Rules and Permission Sets
+# Permission Sets
 
-Quick demo, showcasing how Restriction Rules and Permission Sets work
+Quick demo, showcasing how Permission Sets work
 
