@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <active>true</active>
+    <description xsi:nil="true"/>
+    <enforcementType>Restrict</enforcementType>
+    <masterLabel>ChicagoContract</masterLabel>
+    <recordFilter>ContractTerm=12</recordFilter>
+    <targetEntity>Contract</targetEntity>
+    <userCriteria>$User.City=&apos;Chicago&apos;</userCriteria>
+    <version>1</version>
+</RestrictionRule>
