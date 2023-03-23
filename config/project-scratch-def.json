@@ -1,14 +1,17 @@
 {
-  "orgName": "platform-events-demo",
-  "edition": "Developer",
+  "orgName": "devops-center-demo",
+  "edition": "Enterprise",
   "hasSampleData": true,
-  "features": ["ACCESSCONTROLPOLICIESPILOT", "RESTRICTIONRULESFORSECURITYPILOT","EnableSetPasswordInApi"],
+  "features": ["DevOpsCenter"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    }
+    },
+    "devHubSettings": {
+      "enableDevOpsCenterGA": true
+      }  
   }
 }
