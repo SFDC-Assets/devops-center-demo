@@ -1,5 +1,6 @@
-# Permission Set Groups & Restriction Rules
+# Devops Center Demo
+Sets up 2 scratch orgs to test out the configuration and deployment of code with DevOps Center! Run this from platformdemos.com/s/developer-demos
 
-
-Quick demo, showcasing how Permission Set Groups & Restriction Rules work
-
+Created by: 
+Melissa Layupen
+Jonathan Zhou
