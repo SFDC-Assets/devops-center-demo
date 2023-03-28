@@ -2,7 +2,7 @@
   "orgName": "devops-center-demo",
   "edition": "Enterprise",
   "hasSampleData": true,
-  "features": ["DevOpsCenter"],
+  "features": ["DevOpsCenter", "EnableSetPasswordInApi"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
