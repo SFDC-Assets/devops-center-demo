@@ -1,14 +1,10 @@
 {
-  "orgName": "devops-center-demo",
+  "orgName": "Acme",
   "edition": "Enterprise",
-  "hasSampleData": true,
-  "features": ["DevOpsCenter", "EnableSetPasswordInApi"],
+  "features": ["DevOpsCenter"],
   "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
+      "devHubSettings": {
+          "enableDevOpsCenterGA": true
+          }  
+      }  
   }
-}
