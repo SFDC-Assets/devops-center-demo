@@ -1,0 +1,17 @@
+{
+  "serverMaxRevisionCounter": 5,
+  "sourceMembers": {
+    "ConnectedApp__DevOps_Center": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "ConnectedApp",
+      "isNameObsolete": false
+    },
+    "PermissionSet__sf_devops_NamedCredentials": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    }
+  }
+}
