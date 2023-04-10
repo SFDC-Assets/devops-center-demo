@@ -3,11 +3,5 @@
   "edition": "Developer",
   "adminEmail": "devopscenter@example.com",
   "hasSampleData": true,
-  "features": ["DevOpsCenter"],
-  "settings": {
-      "devHubSettings": {
-          "enableDevOpsCenterGA": true,
-          "enableDevOpsCenter": true
-          }  
-      }  
+  "features": ["DevOpsCenter"]
   }
