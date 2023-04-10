@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "platform-events-demo",
+  "name": "devops-center-demo",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
+  "sourceApiVersion": "57.0"
 }
