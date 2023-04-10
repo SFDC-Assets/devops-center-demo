@@ -1,6 +1,8 @@
 {
-  "orgName": "Acme",
-  "edition": "Enterprise",
+  "orgName": "DevOps Center",
+  "edition": "Developer",
+  "adminEmail": "devopscenter@example.com",
+  "hasSampleData": "true",
   "features": ["DevOpsCenter"],
   "settings": {
       "devHubSettings": {
