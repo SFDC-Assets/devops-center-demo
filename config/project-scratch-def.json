@@ -2,11 +2,12 @@
   "orgName": "DevOps Center",
   "edition": "Developer",
   "adminEmail": "devopscenter@example.com",
-  "hasSampleData": "true",
+  "hasSampleData": true,
   "features": ["DevOpsCenter"],
   "settings": {
       "devHubSettings": {
-          "enableDevOpsCenterGA": true
+          "enableDevOpsCenterGA": true,
+          "enableDevOpsCenter": true
           }  
       }  
   }
